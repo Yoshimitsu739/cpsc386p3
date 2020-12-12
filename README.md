@@ -1,10 +1,14 @@
 # Eradication Man
 CPSC 386 Section 1 Monday/Wednesday 5:30PM
+
 Project 3 Simple New Video Game
+
 Team Name: The Cure
+
 Team Member Names :Armando Osegueda, Antonio de Lis, Hector Bernal, Tianzheng Li
 
-Intro: This final project is to write a program for a new simple non-trivial video game of your own choosing. The game must be a well conceived and implemented game that aims to be challenging and engaging for the target audience.
+Intro: This final project is to write a program for a new simple non-trivial video game of your own choosing. 
+The game must be a well conceived and implemented game that aims to be challenging and engaging for the target audience.
 
 
 CONTENT FILES: README.txt, sketch.js, index.html, style.css, p5.js, p5.play .
