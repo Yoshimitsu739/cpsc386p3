@@ -12,7 +12,7 @@ CONTENT FILES: README.txt, sketch.js, index.html, style.css, p5.js, p5.play .
 
 External Requirements: Node.js or a live server to see the assets. 
 
-Setup and Installation: Download the zip folder from our GitHub link and extract the files onto your computer. If using Atom, install the Atom-live-server package. 
+Setup and Installation: Download the zip folder from our GitHub link and extract the files onto your computer. If using Atom, install the Atom-live-server package, since a live server is required for it to run. 
 
 Sample Invocation:?
 
