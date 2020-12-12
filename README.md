@@ -1,4 +1,4 @@
-# Eradiication Man
+# Eradication Man
 CPSC 386 Section 1 Monday/Wednesday 5:30PM
 Project 3 Simple New Video Game
 Team Name: The Cure
